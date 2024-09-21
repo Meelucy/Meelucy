@@ -3,7 +3,7 @@
 
 
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>)</b>
 
   - [Food Ordering System](https://github.com/Meelucy/Food-ordering-system-)
 
